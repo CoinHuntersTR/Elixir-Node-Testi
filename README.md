@@ -93,8 +93,8 @@ nano Dockerfile
 
 ```
 FROM elixirprotocol/validator:testnet-2
-ENV ADDRESS=YOUR CÜZDAN ADRESİ BURAYA EKLENECEK
-ENV PRIVATE_KEY=YOUR PRIVATE KEY BURAYA EKLİYORUZ.
+ENV ADDRESS=BURAYA CÜZDAN ADRESİ BURAYA EKLENECEK (0x ile geliyor silip cüzdan adresinizi ekleyebilirsiniz.)
+ENV PRIVATE_KEY=BURAYA PRIVATE KEY BURAYA EKLİYORUZ.(0x olarak geliyor onu silmeden ekliyoruz.)
 ENV VALIDATOR_NAME=İSTEDİĞİNİZ BİR AD GİREBİLİRSİNİZ. 
 ```
 * Yukarıdaki bilgileri girdikten sonra, Ctrl + x ardından y ENTER yaparak kayıt ediyoruz.
